@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/2s2SBY5/Fix-Error-20.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/Fix-Error-20-on-Nothing-Phone-_1_/blob/main/Fix-Error-20.png" width="200"></a>
 <h1 align="center"><b>Fix Error 20 (update failed! ERROR is :20) on Nothing Phone (1)</b></h1>
 <br />
 
